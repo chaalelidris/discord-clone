@@ -5,6 +5,7 @@
         "nextjs",
         "tailwindcss",
         "uploadthing",
+        "uuidv",
         "zustand"
     ]
 }

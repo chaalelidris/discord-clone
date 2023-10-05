@@ -1,7 +1,6 @@
-import React from "react";
+import { TestDropdown } from "@/components/test-dropdown";
 
 const ServerPage = () => {
-  return <div>My Server</div>;
+  return <TestDropdown />;
 };
-
 export default ServerPage;
